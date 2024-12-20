@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\RentACarProject\nArchitecture\src\corePackages\Core.Packages\Core.Persistence\bin\Debug\net8.0\Core.Persistence.deps.json
+C:\Users\Administrator\Desktop\RentACarProject\nArchitecture\src\corePackages\Core.Packages\Core.Persistence\bin\Debug\net8.0\Core.Persistence.dll
+C:\Users\Administrator\Desktop\RentACarProject\nArchitecture\src\corePackages\Core.Packages\Core.Persistence\bin\Debug\net8.0\Core.Persistence.pdb
+C:\Users\Administrator\Desktop\RentACarProject\nArchitecture\src\corePackages\Core.Packages\Core.Persistence\obj\Debug\net8.0\Core.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\RentACarProject\nArchitecture\src\corePackages\Core.Packages\Core.Persistence\obj\Debug\net8.0\Core.Persistence.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\RentACarProject\nArchitecture\src\corePackages\Core.Packages\Core.Persistence\obj\Debug\net8.0\Core.Persistence.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\RentACarProject\nArchitecture\src\corePackages\Core.Packages\Core.Persistence\obj\Debug\net8.0\Core.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\RentACarProject\nArchitecture\src\corePackages\Core.Packages\Core.Persistence\obj\Debug\net8.0\Core.Persistence.sourcelink.json
+C:\Users\Administrator\Desktop\RentACarProject\nArchitecture\src\corePackages\Core.Packages\Core.Persistence\obj\Debug\net8.0\Core.Persistence.dll
+C:\Users\Administrator\Desktop\RentACarProject\nArchitecture\src\corePackages\Core.Packages\Core.Persistence\obj\Debug\net8.0\refint\Core.Persistence.dll
+C:\Users\Administrator\Desktop\RentACarProject\nArchitecture\src\corePackages\Core.Packages\Core.Persistence\obj\Debug\net8.0\Core.Persistence.pdb
+C:\Users\Administrator\Desktop\RentACarProject\nArchitecture\src\corePackages\Core.Packages\Core.Persistence\obj\Debug\net8.0\ref\Core.Persistence.dll
+C:\Users\Administrator\Desktop\RentACarProject\nArchitecture\src\corePackages\Core.Packages\Core.Persistence\obj\Debug\net8.0\Core.Persistence.csproj.AssemblyReference.cache
