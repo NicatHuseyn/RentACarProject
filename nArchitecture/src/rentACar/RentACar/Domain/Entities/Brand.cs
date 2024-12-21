@@ -1,4 +1,6 @@
-﻿using Core.Persistence.Repositories;
+﻿
+
+using Core.Persistence.Repositories;
 
 namespace Domain.Entities;
 
@@ -11,7 +13,7 @@ public class Brand:Entity<Guid>
         
     }
 
-    public Brand(Guid id, string name)
+    public Brand(Guid id, string name):this()
     {
         Id = id;
         Name = name;

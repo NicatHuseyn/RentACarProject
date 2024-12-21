@@ -2,7 +2,6 @@
 using Core.Persistence.Dynamic;
 using Core.Persistence.Paging;
 using Microsoft.EntityFrameworkCore.Query;
-using Octopus.Client.Repositories.Async;
 
 namespace Core.Persistence.Repositories
 {

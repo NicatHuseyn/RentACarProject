@@ -1,4 +1,5 @@
 using Application;
+using Persistence;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,6 +9,7 @@ var builder = WebApplication.CreateBuilder(args);
 #region Extension Services
 
 builder.Services.AddApplicationService();
+builder.Services.AddPersistenceServices(builder.Configuration);
 
 #endregion
 
