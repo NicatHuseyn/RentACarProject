@@ -50,8 +50,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -75,8 +95,7 @@
               "RelativeToolTip": "WepAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T17:43:43.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T17:43:43.867Z"
             },
             {
               "$type": "Document",
@@ -88,8 +107,7 @@
               "RelativeToolTip": "Application\\ApplicationServiceRegistration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T17:41:27.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T17:41:27.924Z"
             },
             {
               "$type": "Document",
@@ -101,8 +119,7 @@
               "RelativeToolTip": "Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T17:39:35.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T17:39:35.752Z"
             },
             {
               "$type": "Document",
@@ -114,8 +131,7 @@
               "RelativeToolTip": "WepAPI\\Controllers\\BaseController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T17:33:28.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T17:33:28.2Z"
             },
             {
               "$type": "Document",
@@ -127,8 +143,7 @@
               "RelativeToolTip": "WepAPI\\Controllers\\BrandsController.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAwwA8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T17:33:07.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T17:33:07.644Z"
             },
             {
               "$type": "Document",
@@ -140,8 +155,7 @@
               "RelativeToolTip": "Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommandResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T17:25:03.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T17:25:03.601Z"
             },
             {
               "$type": "Document",
@@ -153,41 +167,19 @@
               "RelativeToolTip": "Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommandReuqest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T17:20:27.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T17:20:27.949Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Domain",
+              "Title": "Domain.csproj",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RentACarProject\\nArchitecture\\src\\rentACar\\RentACar\\Domain\\Domain.csproj",
               "RelativeDocumentMoniker": "Domain\\Domain.csproj",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\RentACarProject\\nArchitecture\\src\\rentACar\\RentACar\\Domain\\Domain.csproj",
               "RelativeToolTip": "Domain\\Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-20T16:59:08.106Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "WhenOpened": "2024-12-20T16:59:08.106Z"
             },
             {
               "$type": "Document",
@@ -199,8 +191,7 @@
               "RelativeToolTip": "Domain\\Entities\\Brand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T16:47:24.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T16:47:24.821Z"
             }
           ]
         }

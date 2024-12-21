@@ -1,4 +1,4 @@
-﻿using System.Runtime.CompilerServices;
+﻿using System.Linq.Dynamic.Core;
 using System.Text;
 
 namespace Core.Persistence.Dynamic;
@@ -39,7 +39,7 @@ public static class IQueryableDynamicFilterExtensions
         string?[] values = filters.Select(f => f.Value).ToArray();
         string where = Transform(filter, filters);
         if (!string.IsNullOrEmpty(where) && values != null)
-            queryable = queryable.Where(where,values);
+            queryable = queryable.Where(where, values);
 
         return queryable;
     }

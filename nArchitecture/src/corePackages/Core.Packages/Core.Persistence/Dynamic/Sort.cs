@@ -2,7 +2,15 @@
 
 public class Sort
 {
+    /// <summary>
+    /// The field (property) to apply sorting on. 
+    /// This should correspond to a property in the data model.
+    /// </summary>
     public string Field { get; set; }
+
+    /// <summary>
+    /// The direction of the sorting. Can be "asc" for ascending or "desc" for descending.
+    /// </summary>
     public string Direction { get; set; }
 
     public Sort()

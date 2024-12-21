@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\RentACarProject\\nArchitecture\\src\\corePackages\\Core.Packages\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7043D294-9EEB-4422-972B-6600C066FE7C}|Core.Persistence\\Core.Persistence.csproj|c:\\users\\administrator\\desktop\\rentacarproject\\narchitecture\\src\\corepackages\\core.packages\\core.persistence\\repositories\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7043D294-9EEB-4422-972B-6600C066FE7C}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\repositories\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7043D294-9EEB-4422-972B-6600C066FE7C}|Core.Persistence\\Core.Persistence.csproj|c:\\users\\administrator\\desktop\\rentacarproject\\narchitecture\\src\\corepackages\\core.packages\\core.persistence\\dynamic\\dynamicquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7043D294-9EEB-4422-972B-6600C066FE7C}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\dynamic\\dynamicquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7043D294-9EEB-4422-972B-6600C066FE7C}|Core.Persistence\\Core.Persistence.csproj|c:\\users\\administrator\\desktop\\rentacarproject\\narchitecture\\src\\corepackages\\core.packages\\core.persistence\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7043D294-9EEB-4422-972B-6600C066FE7C}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7043D294-9EEB-4422-972B-6600C066FE7C}|Core.Persistence\\Core.Persistence.csproj|c:\\users\\administrator\\desktop\\rentacarproject\\narchitecture\\src\\corepackages\\core.packages\\core.persistence\\repositories\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7043D294-9EEB-4422-972B-6600C066FE7C}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\repositories\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7043D294-9EEB-4422-972B-6600C066FE7C}|Core.Persistence\\Core.Persistence.csproj|c:\\users\\administrator\\desktop\\rentacarproject\\narchitecture\\src\\corepackages\\core.packages\\core.persistence\\repositories\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7043D294-9EEB-4422-972B-6600C066FE7C}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\repositories\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7043D294-9EEB-4422-972B-6600C066FE7C}|Core.Persistence\\Core.Persistence.csproj|c:\\users\\administrator\\desktop\\rentacarproject\\narchitecture\\src\\corepackages\\core.packages\\core.persistence\\dynamic\\sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7043D294-9EEB-4422-972B-6600C066FE7C}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\dynamic\\sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7043D294-9EEB-4422-972B-6600C066FE7C}|Core.Persistence\\Core.Persistence.csproj|c:\\users\\administrator\\desktop\\rentacarproject\\narchitecture\\src\\corepackages\\core.packages\\core.persistence\\dynamic\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7043D294-9EEB-4422-972B-6600C066FE7C}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\dynamic\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,37 +58,63 @@
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RentACarProject\\nArchitecture\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\IRepository.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\IRepository.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RentACarProject\\nArchitecture\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\IRepository.cs*",
-              "RelativeToolTip": "Core.Persistence\\Repositories\\IRepository.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RentACarProject\\nArchitecture\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Core.Persistence\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T18:31:30.072Z",
+              "WhenOpened": "2024-12-21T08:58:48.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IAsyncRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RentACarProject\\nArchitecture\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\IAsyncRepository.cs",
-              "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\IAsyncRepository.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RentACarProject\\nArchitecture\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\IAsyncRepository.cs",
-              "RelativeToolTip": "Core.Persistence\\Repositories\\IAsyncRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAiwBwAAAA1AAAAAAAAAA==",
+              "Title": "DynamicQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RentACarProject\\nArchitecture\\src\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic\\DynamicQuery.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Dynamic\\DynamicQuery.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RentACarProject\\nArchitecture\\src\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic\\DynamicQuery.cs",
+              "RelativeToolTip": "Core.Persistence\\Dynamic\\DynamicQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T17:58:15.355Z",
+              "WhenOpened": "2024-12-21T08:56:13.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sort.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RentACarProject\\nArchitecture\\src\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic\\Sort.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Dynamic\\Sort.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RentACarProject\\nArchitecture\\src\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic\\Sort.cs",
+              "RelativeToolTip": "Core.Persistence\\Dynamic\\Sort.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:48:18.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Filter.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RentACarProject\\nArchitecture\\src\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic\\Filter.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Dynamic\\Filter.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RentACarProject\\nArchitecture\\src\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic\\Filter.cs",
+              "RelativeToolTip": "Core.Persistence\\Dynamic\\Filter.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwCYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:38:27.517Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Entity.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RentACarProject\\nArchitecture\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\Entity.cs",
-              "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\Entity.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RentACarProject\\nArchitecture\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\Entity.cs",
-              "RelativeToolTip": "Core.Persistence\\Repositories\\Entity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "IAsyncRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RentACarProject\\nArchitecture\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\IAsyncRepository.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\IAsyncRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RentACarProject\\nArchitecture\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\IAsyncRepository.cs",
+              "RelativeToolTip": "Core.Persistence\\Repositories\\IAsyncRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T16:53:50.699Z",
+              "WhenOpened": "2024-12-21T08:34:22.871Z",
               "EditorCaption": ""
             }
           ]
