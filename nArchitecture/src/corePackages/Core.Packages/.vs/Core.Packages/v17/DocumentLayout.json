@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\RentACarProject\\nArchitecture\\src\\corePackages\\Core.Packages\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7043D294-9EEB-4422-972B-6600C066FE7C}|Core.Persistence\\Core.Persistence.csproj|c:\\users\\administrator\\desktop\\rentacarproject\\narchitecture\\src\\corepackages\\core.packages\\core.persistence\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7043D294-9EEB-4422-972B-6600C066FE7C}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34435D35-9DEB-43A4-B13F-117FBCE66C9F}|Core.Application\\Core.Application.csproj|c:\\users\\administrator\\desktop\\rentacarproject\\narchitecture\\src\\corepackages\\core.packages\\core.application\\responses\\getlistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34435D35-9DEB-43A4-B13F-117FBCE66C9F}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\responses\\getlistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7043D294-9EEB-4422-972B-6600C066FE7C}|Core.Persistence\\Core.Persistence.csproj|c:\\users\\administrator\\desktop\\rentacarproject\\narchitecture\\src\\corepackages\\core.packages\\core.persistence\\repositories\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7043D294-9EEB-4422-972B-6600C066FE7C}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\repositories\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34435D35-9DEB-43A4-B13F-117FBCE66C9F}|Core.Application\\Core.Application.csproj|c:\\users\\administrator\\desktop\\rentacarproject\\narchitecture\\src\\corepackages\\core.packages\\core.application\\requests\\pagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34435D35-9DEB-43A4-B13F-117FBCE66C9F}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\requests\\pagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7043D294-9EEB-4422-972B-6600C066FE7C}|Core.Persistence\\Core.Persistence.csproj|c:\\users\\administrator\\desktop\\rentacarproject\\narchitecture\\src\\corepackages\\core.packages\\core.persistence\\repositories\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7043D294-9EEB-4422-972B-6600C066FE7C}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\repositories\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7043D294-9EEB-4422-972B-6600C066FE7C}|Core.Persistence\\Core.Persistence.csproj|c:\\users\\administrator\\desktop\\rentacarproject\\narchitecture\\src\\corepackages\\core.packages\\core.persistence\\paging\\basepageablemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7043D294-9EEB-4422-972B-6600C066FE7C}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\paging\\basepageablemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7043D294-9EEB-4422-972B-6600C066FE7C}|Core.Persistence\\Core.Persistence.csproj|c:\\users\\administrator\\desktop\\rentacarproject\\narchitecture\\src\\corepackages\\core.packages\\core.persistence\\paging\\paginate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7043D294-9EEB-4422-972B-6600C066FE7C}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\paging\\paginate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,41 +50,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RentACarProject\\nArchitecture\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\IRepository.cs",
-              "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\IRepository.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RentACarProject\\nArchitecture\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\IRepository.cs",
-              "RelativeToolTip": "Core.Persistence\\Repositories\\IRepository.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAA0wAgAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Paginate.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RentACarProject\\nArchitecture\\src\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\Paginate.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Paging\\Paginate.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RentACarProject\\nArchitecture\\src\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\Paginate.cs",
+              "RelativeToolTip": "Core.Persistence\\Paging\\Paginate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T13:45:27.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IAsyncRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RentACarProject\\nArchitecture\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\IAsyncRepository.cs",
-              "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\IAsyncRepository.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RentACarProject\\nArchitecture\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\IAsyncRepository.cs",
-              "RelativeToolTip": "Core.Persistence\\Repositories\\IAsyncRepository.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAAwAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T13:44:20.486Z",
+              "WhenOpened": "2024-12-23T05:43:40.098Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Entity.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RentACarProject\\nArchitecture\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\Entity.cs",
-              "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\Entity.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RentACarProject\\nArchitecture\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\Entity.cs",
-              "RelativeToolTip": "Core.Persistence\\Repositories\\Entity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Title": "BasePageableModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RentACarProject\\nArchitecture\\src\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\BasePageableModel.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Paging\\BasePageableModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RentACarProject\\nArchitecture\\src\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\BasePageableModel.cs",
+              "RelativeToolTip": "Core.Persistence\\Paging\\BasePageableModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T13:34:42.27Z",
+              "WhenOpened": "2024-12-23T05:42:59.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetListResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RentACarProject\\nArchitecture\\src\\corePackages\\Core.Packages\\Core.Application\\Responses\\GetListResponse.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Responses\\GetListResponse.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RentACarProject\\nArchitecture\\src\\corePackages\\Core.Packages\\Core.Application\\Responses\\GetListResponse.cs",
+              "RelativeToolTip": "Core.Application\\Responses\\GetListResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T05:38:02.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PageRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RentACarProject\\nArchitecture\\src\\corePackages\\Core.Packages\\Core.Application\\Requests\\PageRequest.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Requests\\PageRequest.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RentACarProject\\nArchitecture\\src\\corePackages\\Core.Packages\\Core.Application\\Requests\\PageRequest.cs",
+              "RelativeToolTip": "Core.Application\\Requests\\PageRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T05:31:58.147Z",
               "EditorCaption": ""
             }
           ]
